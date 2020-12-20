@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there It's me, Jigar 👋
+I am passionate about learning and exploring new areas of technology, it helps to enhance my knowledge and keep me up to date about new technology.🌸
 
 <!--
 **jigarvishwakarma/jigarvishwakarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
